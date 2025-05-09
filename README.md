@@ -19,7 +19,6 @@ View the live website here: [pranjalpanging-portfolio.netlify.app](https://pranj
 - HTML
 - CSS
 - JavaScript
-- (Add frameworks if used: e.g., React, Bootstrap, Tailwind, etc.)
 
 ## Installation
 
