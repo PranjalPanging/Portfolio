@@ -27,4 +27,4 @@ View the live website here: [pranjalpanging-portfolio.netlify.app](https://pranj
    git clone https://github.com/PranjalPanging/portfolio
 
 ## License 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT license. 
